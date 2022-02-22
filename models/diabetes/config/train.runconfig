@@ -8,4 +8,4 @@ environment:
     condaDependenciesFile: config/train-conda.yml
   docker:
     enabled: true
-    baseImage: mcr.microsoft.com/azureml/base:0.2.4
+    baseImage: mcr.microsoft.com/azureml/base
